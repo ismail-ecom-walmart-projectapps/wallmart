@@ -2,4 +2,4 @@ Hello Buddy,
 
 Git commands practice 
 
-to check reset command
+to check reset comman .d

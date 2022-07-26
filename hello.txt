@@ -6,3 +6,5 @@ Hello Buddy,
 Git commands practice 
 
 to check reset command
+
+check
